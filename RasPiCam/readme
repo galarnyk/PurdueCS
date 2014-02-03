@@ -1,0 +1,10 @@
+Designed to wait for tweets  mentioning @RasPiCam and then reply with a picture!
+
+Currently checks for new tweets evey 30 seconds
+
+Things to fix:
+1. Currently only replies to the last tweet it got in the last 30 seconds
+2. Only responds to tweets mentioning @RasPiCam first. i.e. "@raspicam take a picture"
+
+
+
